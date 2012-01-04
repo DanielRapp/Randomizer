@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  padding-top: 50px;
+
+  text-align: center;
+}
+
+div {
+  background-color: #ee2222;
+  display: inline-block;
+  margin: auto 0px;
+  width: 200px;
+  height: 200px;
+
+  box-shadow: 0 0 15px #777;
+  box-sizing: border-box;
+
+  border: 50px double rgba(0,0,0,0.7);
+  border-radius: 100px;
+
+  -webkit-transition:0.2s ease;
+}
+
+div:hover {
+  border-width: 45px;
+}
+
+div:active {
+  border-width: 35px;
+}

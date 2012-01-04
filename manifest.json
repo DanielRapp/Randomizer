@@ -1,0 +1,12 @@
+{
+	"BundleType": "Application",
+	"AppIcon": {
+		"18x18": "randomizer.png"
+	},
+	"AppName": {
+		"en": "Randomizer"
+	},
+	"SupportedLanguages": [
+		"en"
+	]
+}
