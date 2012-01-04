@@ -6,7 +6,9 @@ This is a simple Spotify app that plays a random track when a button is clicked.
 ##Installation
 ###Mac/Unix
 Run this command:
+
     git clone git://github.com/DanielRapp/Randomizer.git ~/Spotify/Randomizer
+
 Visit this link: [spotify:app:randomizer](spotify:app:randomizer)
 
 ###Windows
