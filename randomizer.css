@@ -20,6 +20,8 @@ div {
   border-radius: 100px;
 
   -webkit-transition:0.2s ease;
+  
+  cursor: pointer;
 }
 
 div:hover {
