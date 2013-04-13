@@ -1,13 +1,13 @@
 {
-	"BundleType": "Application",
+  "BundleType": "Application",
   "BundleIdentifier": "randomizer",
-	"AppIcon": {
-		"18x18": "randomizer.png"
-	},
-	"AppName": {
-		"en": "Randomizer"
-	},
-	"SupportedLanguages": [
-		"en"
-	]
+  "AppIcon": {
+    "18x18": "randomizer.png"
+  },
+  "AppName": {
+    "en": "Randomizer"
+  },
+  "SupportedLanguages": [
+    "en"
+  ]
 }
