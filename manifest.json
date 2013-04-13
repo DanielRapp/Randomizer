@@ -1,5 +1,6 @@
 {
 	"BundleType": "Application",
+  "BundleIdentifier": "randomizer",
 	"AppIcon": {
 		"18x18": "randomizer.png"
 	},
