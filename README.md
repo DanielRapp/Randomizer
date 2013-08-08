@@ -1,5 +1,5 @@
 #Randomizer
-This is a simple Spotify app that plays a random track when a button is clicked. Note that you need to have a [Spotify developer account](http://developer.spotify.com/en/spotify-apps-api/developer-signup/).
+This is a simple Spotify app that plays a random track when a button is clicked. Note that you need to have a [Spotify developer account](https://developer.spotify.com/).
 
 ![Screenshot of the app](http://f.cl.ly/items/173S3R0q0M2b1r2u0f1A/Screen%20Shot%202012-01-05%20at%203.05.48%20PM.png)
 
